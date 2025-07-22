@@ -26,7 +26,7 @@ Authencoding == 4.3
 zope.securitypolicy == 5.0
 zope.authentication == 5.0
 buildout.sanitycheck == 1.0.2
-collective.volto.formsupport == 2.3.0
+collective.volto.formsupport == 3.3.0
 collective.z3cform.norobots == 2.1
 node == 1.0
 odict == 1.9.0
