@@ -1,5 +1,5 @@
 [project]
-name = "arufon.radio"
+name = "ARUFON Backend"
 version = "0.1.0"
 dependencies = [
     "Plone==6.0.8",
